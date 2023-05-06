@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "202783443105",
+    "project_id": "login-register-firebase-daf3d",
+    "storage_bucket": "login-register-firebase-daf3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202783443105:android:f537383f8aa84da56c88e0",
+        "android_client_info": {
+          "package_name": "com.example.loginact1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202783443105-32jlj19uu3h1okhpp4eoqi64f56ol0n4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSmT3qTnrn_cDr-G6hL7QO4b_oWzhHkGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202783443105-32jlj19uu3h1okhpp4eoqi64f56ol0n4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

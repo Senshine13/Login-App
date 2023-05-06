@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Login Act1</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">Click to register</string>
+    <string name="logout">Logout</string>
+    <string name="welcome">Welcome</string>
+    <string name="_1_welcome_speech">1. Welcome Speech</string>
+    <string name="_2_guest_entry">2. Guest Entry</string>
+    <string name="_3_dance_performance">3. Dance Performance</string>
+    <string name="_4_expert_speech">4. Expert Speech</string>
+    <string name="_5_guest_speech">5. Guest Speech</string>
+    <string name="_6_presenting_awards">6. Presenting Awards</string>
+    <string name="_7_honoring_the_guest">7. Honoring the Guest</string>
+    <string name="_8_concluding_the_event">8. Concluding the Event</string>
+</resources>
